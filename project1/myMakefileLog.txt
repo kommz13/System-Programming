@@ -1,0 +1,9 @@
+gcc -g -c -Wall main.c 
+gcc -g -c -Wall red_black_tree.c 
+gcc -g -c -Wall listlist.c 
+gcc -g -c -Wall functions.c 
+gcc -g -c -Wall hashdisease.c
+gcc -g -c -Wall hashcountry.c
+gcc -g -c -Wall date.c
+gcc -g -c -Wall PatientData.c
+gcc -g main.o red_black_tree.o listlist.o functions.o hashdisease.o hashcountry.o date.o PatientData.o -o diseaseMonitor 

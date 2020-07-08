@@ -1,0 +1,3 @@
+type command: /diseasefrequency
+evd 1
+type command: type command: type command: type command: type command: type command: type command: type command: type command: type command: type command: type command: type command: type command: type command: type command: unknown first token 
